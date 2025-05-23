@@ -1,0 +1,4 @@
+.venv
+photos_metadata.json
+*/__pycache__/
+*/*.egg-info/

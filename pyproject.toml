@@ -1,0 +1,9 @@
+[project]
+name = "photography-fetcher"
+version = "0.1.0"
+description = "fetches and stores photo metadata from shared album"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "requests>=2.32.3",
+]
